@@ -19,5 +19,5 @@
 <i><b>IMPORTANT:</b> Remember that the macro <b>won’t start playing</b> as long as you don't <b>click OK</b>.</i><br>
 
 
-<h3 align="left">Thats all, now let it do the AFLing and click <b>ESC</b> when you are done.</h3>
+<h3 align="left">Thats all, now let it do the AFK'ing and click <b>ESC</b> when you are done.</h3>
 <hr/>
